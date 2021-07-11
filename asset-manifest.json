@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/pokemon-frontend/static/css/main.a617e044.chunk.css",
-    "main.js": "/pokemon-frontend/static/js/main.b6c63352.chunk.js",
-    "main.js.map": "/pokemon-frontend/static/js/main.b6c63352.chunk.js.map",
-    "runtime-main.js": "/pokemon-frontend/static/js/runtime-main.62a0b2ce.js",
-    "runtime-main.js.map": "/pokemon-frontend/static/js/runtime-main.62a0b2ce.js.map",
-    "static/js/2.b828f5df.chunk.js": "/pokemon-frontend/static/js/2.b828f5df.chunk.js",
-    "static/js/2.b828f5df.chunk.js.map": "/pokemon-frontend/static/js/2.b828f5df.chunk.js.map",
-    "static/js/3.1176a3be.chunk.js": "/pokemon-frontend/static/js/3.1176a3be.chunk.js",
-    "static/js/3.1176a3be.chunk.js.map": "/pokemon-frontend/static/js/3.1176a3be.chunk.js.map",
+    "main.css": "/pokemon-frontend/static/css/main.b6f64206.chunk.css",
+    "main.js": "/pokemon-frontend/static/js/main.4e1673f1.chunk.js",
+    "main.js.map": "/pokemon-frontend/static/js/main.4e1673f1.chunk.js.map",
+    "runtime-main.js": "/pokemon-frontend/static/js/runtime-main.11ad1e24.js",
+    "runtime-main.js.map": "/pokemon-frontend/static/js/runtime-main.11ad1e24.js.map",
+    "static/js/2.536c4aea.chunk.js": "/pokemon-frontend/static/js/2.536c4aea.chunk.js",
+    "static/js/2.536c4aea.chunk.js.map": "/pokemon-frontend/static/js/2.536c4aea.chunk.js.map",
+    "static/js/3.3b12b0df.chunk.js": "/pokemon-frontend/static/js/3.3b12b0df.chunk.js",
+    "static/js/3.3b12b0df.chunk.js.map": "/pokemon-frontend/static/js/3.3b12b0df.chunk.js.map",
     "index.html": "/pokemon-frontend/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/pokemon-frontend/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b828f5df.chunk.js.LICENSE.txt": "/pokemon-frontend/static/js/2.b828f5df.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/pokemon-frontend/static/media/logo.6ce24c58.svg"
+    "static/css/main.b6f64206.chunk.css.map": "/pokemon-frontend/static/css/main.b6f64206.chunk.css.map",
+    "static/js/2.536c4aea.chunk.js.LICENSE.txt": "/pokemon-frontend/static/js/2.536c4aea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.62a0b2ce.js",
-    "static/js/2.b828f5df.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.b6c63352.chunk.js"
+    "static/js/runtime-main.11ad1e24.js",
+    "static/js/2.536c4aea.chunk.js",
+    "static/css/main.b6f64206.chunk.css",
+    "static/js/main.4e1673f1.chunk.js"
   ]
 }
